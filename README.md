@@ -23,7 +23,9 @@ This project demonstrates clean design, semantic markup, and basic styling princ
 
 ---
 
-📸 Preview👉 [Live Demo📌](./Assets/Screenshots/Screenshot%202025-12-16%20194322.png)
+### Screenshot
+
+![Desktop](./Assets/Screenshots/Screenshot%202025-12-16%20194322.png)
 
 ## Future Improvements
 
@@ -34,3 +36,4 @@ This project demonstrates clean design, semantic markup, and basic styling princ
 ## 🧑‍💻 Author
 
 Created by Biru MJ – Aspiring web developer passionate about building accessible and polished user interfaces
+
